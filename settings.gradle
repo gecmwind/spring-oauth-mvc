@@ -1,0 +1,4 @@
+rootProject.name = 'spring-oauth-mvc'
+include 'sparklr'
+include 'tonr'
+
